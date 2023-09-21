@@ -36,3 +36,4 @@ class CategoryModel
         return $this->mysql->modifyData($query, ['id' => $id]);
     }
 }
+
