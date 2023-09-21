@@ -163,7 +163,7 @@
         <div class="col-md-4  col-lg-3 col-xl-3 mx-auto mt-3">
             <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Contact</h5>
             <p>
-            <i class="fa-solid fa-house-crack me-3"></i>Yagon, Kandawkalay
+            <i class="fa-solid fa-house-crack me-3"></i>Yagon, Kandawkalay 
             </p>
             <p>
             <i class="fa-solid fa-square-envelope me-3"></i>trs@gmail.com
@@ -205,6 +205,7 @@
                     </ul>
                 </div>
             </div> -->
+
         </div>
     </div>
 </div>    
